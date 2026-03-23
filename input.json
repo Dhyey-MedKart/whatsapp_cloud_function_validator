@@ -1,0 +1,108 @@
+[
+  {
+    "store_id": "Medkart",
+    "wa_account": "916353119506",
+    "wa_jid": {
+      "Device": 95,
+      "IsEmpty": false,
+      "Server": "s.whatsapp.net",
+      "RawAgent": 0,
+      "User": "916353119506",
+      "Integrator": 0
+    },
+    "connected_at": "2026-03-13 05:44:50.975723+00:00",
+    "phone_number": "916353119506",
+    "is_active": true,
+    "disconnect_reason": null,
+    "status": "Connected",
+    "last_seen": "2026-03-16 12:35:15.601686+00:00",
+    "data": {
+      "chats": [
+        {
+          "id": "147132778598640",
+          "JID": {
+            "Device": 0,
+            "Integrator": 0,
+            "Server": "lid",
+            "RawAgent": 0,
+            "User": "147132778598640",
+            "IsEmpty": false
+          },
+          "business_name": "",
+          "full_name": "",
+          "push_name": "",
+          "phone_number": "919099153460",
+          "messages": [
+            {
+              "message_id": "3AD7083F2F7FFE33CAA7",
+              "conversation_type": "chat",
+              "type": "text",
+              "body": "Ok",
+              "delivered_at": 1771993451,
+              "direction": "inbound",
+              "edited_at": null,
+              "is_deleted": false,
+              "is_edited": false,
+              "media": null,
+              "read_at": null,
+              "sent_at": 1771993451,
+              "mention": []
+            },
+            {
+              "message_id": "AC87E14BC70E1D6225148FECBD6A8FCA",
+              "conversation_type": "chat",
+              "type": "audio",
+              "body": null,
+              "delivered_at": null,
+              "direction": "outbound",
+              "edited_at": null,
+              "is_deleted": false,
+              "is_edited": false,
+              "media": {
+                "filename": null,
+                "media_key": [4, 200, 177, 4, 27, 149, 251, 182, 240, 233, 150, 12, 171, 175, 71, 30, 178, 52, 15, 39, 88, 29, 202, 20, 198, 97, 75, 38, 198, 178, 89, 86],
+                "mime_type": "audio/ogg; codecs=opus",
+                "url": "https://mmg.whatsapp.net/v/t62.7117-24/535214048_1271776651525890_5173156162916536149_n.enc?ccb=11-4&oh=01_Q5Aa3wEvHIzpCChT0LO8PqoTGVHXQ13oOoHf4FcQRTJ1L9419g&oe=69C601F9&_nc_sid=5e03e0&mms3=true"
+              },
+              "read_at": null,
+              "sent_at": 1771993098,
+              "mention": []
+            }
+          ]
+        },
+        {
+          "id": "222685531472058",
+          "JID": {
+            "Device": 0,
+            "Integrator": 0,
+            "Server": "lid",
+            "RawAgent": 0,
+            "User": "222685531472058",
+            "IsEmpty": false
+          },
+          "business_name": "",
+          "full_name": "",
+          "push_name": "",
+          "phone_number": "919824783451",
+          "messages": [
+            {
+              "message_id": "ACE96C1196689B84E5520838E0277A26",
+              "conversation_type": "chat",
+              "type": "unknown",
+              "body": "",
+              "delivered_at": null,
+              "direction": "outbound",
+              "edited_at": null,
+              "is_deleted": false,
+              "is_edited": false,
+              "media": null,
+              "read_at": null,
+              "sent_at": 1773230895,
+              "mention": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
